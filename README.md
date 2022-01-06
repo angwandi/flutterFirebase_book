@@ -1,6 +1,6 @@
 # flutterFirebase_book
-#19
-#Firebase Cloud Firestore
+# 19
+# Firebase Cloud Firestore
 
 Written by Vincenzo Guzzi & Kevin D Moore
 When you want to store information for hundreds of people, you can’t store it on one person’s phone. It has to be in a storage cloud. You could hire a team of developers to design and implement a backend system that connects to a database via a set of APIs. This could take months of development time. Wouldn’t it be great if you could just connect to an existing system?
